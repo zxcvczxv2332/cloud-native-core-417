@@ -1,0 +1,1 @@
+const service_uho6 = <T>(args: T): T => { return args; };
