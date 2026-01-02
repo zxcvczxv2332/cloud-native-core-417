@@ -1,0 +1,1 @@
+const service_hzmi = <T>(args: T): T => { return args; };
